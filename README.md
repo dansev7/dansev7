@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=PROFILE%20VIEWS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fdansev7%2Fvisits&style=flat-square" alt="Views Counter" />
+  <img src="https://gpvc.arturio.dev/dansev7" alt="Profile Views" />
 </p>
 
 ---
