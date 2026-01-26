@@ -13,13 +13,6 @@
 
 ---
 
-### ⚡ Quick Summary
-| 🚀 Status | 🛠 Currently Learning | 👯 Open for |
-| :--- | :--- | :--- |
-| Coding Daily | **Next.js & Server Components** | Open Source & Freelance |
-
----
-
 ### 🛠 Toolbox
 
 | Category | Tools & Technologies |
@@ -27,19 +20,35 @@
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
 | **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) |
+
+---
+
+### 💻 Featured Projects
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://via.placeholder.com/400x200?text=Project+1+Thumbnail" alt="Project 1" />
+      <br /><b>Project Name 1</b><br />
+      Brief description of the MERN/Django stack used.
+    </td>
+    <td width="50%">
+      <img src="https://via.placeholder.com/400x200?text=Project+2+Thumbnail" alt="Project 2" />
+      <br /><b>Project Name 2</b><br />
+      Brief description of the React Native/Supabase app.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&cache_seconds=1800&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&cache_seconds=1800" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansev7&theme=nord&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord" />
 </p>
 
 ---
