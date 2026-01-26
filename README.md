@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/dansev7" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=dansev7&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views Counter" />
+</p>>
 
 ---
 
