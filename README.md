@@ -25,30 +25,11 @@
 
 ---
 
-### 💻 Featured Projects
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://via.placeholder.com/400x200?text=Project+1+Thumbnail" alt="Project 1" />
-      <br /><b>Project Name 1</b><br />
-      Brief description of the MERN/Django stack used.
-    </td>
-    <td width="50%">
-      <img src="https://via.placeholder.com/400x200?text=Project+2+Thumbnail" alt="Project 2" />
-      <br /><b>Project Name 2</b><br />
-      Brief description of the React Native/Supabase app.
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&cache_seconds=1800&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord&hide_border=true" />
 </p>
 
 ---
