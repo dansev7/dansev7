@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dansev7&label=PROFILE+VIEWS&color=0e75b6&style=flat-square&disable_oneself=true" alt="Views Counter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Daniel%20Ayele&fontSize=70&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <b>Software Developer | MERN Stack | React Native | Django</b><br>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dansev7&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=dansev7&label=PROFILE+VIEWS&color=0e75b6&style=flat-square&disable_oneself=true" alt="Views Counter" />
 </p>
 
 ---
