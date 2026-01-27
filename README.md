@@ -16,7 +16,7 @@
     <a href="https://instagram.com/danielayele_7">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:danielayele077@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -24,7 +24,7 @@
   <br />
 
   <p>
-    <i>Building scalable web and mobile solutions with passion. currently deep-diving into <b>Next.js & Server Components</b>.</i>
+    <i>Building scalable web and mobile solutions with passion. Currently deep-diving into <b>Next.js & Server Components</b>.</i>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=dansev7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views Counter" />
@@ -76,7 +76,7 @@
 <br/><br/>
 
 <a href="https://github.com/dansev7">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansev7&theme=tokyonight&hide_border=true" alt="Daniel's Streak" />
+  <img src="https://streak-stats.demolab.com?user=dansev7&theme=tokyonight&hide_border=true" alt="Daniel's Streak" />
 </a>
 
 </div>
