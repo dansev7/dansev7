@@ -39,7 +39,7 @@
 - 🌱 I’m currently learning **Advanced Microservices Patterns**
 - 👯 I’m looking to collaborate on **Open Source React & Node Projects**
 - 💬 Ask me about **REST API, Node.js, Express, and React Native**
-- ⚡ Fun fact: **I can center a div in 3 different ways!**
+
 
 ---
 
