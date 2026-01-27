@@ -1,59 +1,90 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Daniel%20Ayele&fontSize=70&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Software Developer | MERN Stack | React Native | Django</b><br>
-  <i>Building scalable web and mobile solutions with passion.</i>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Daniel%20Ayele&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Daniel Ayele Header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dansev7&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views Counter" />
-</p>>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Specialist;React+Native+Expert;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
 
----
+  <p>
+    <a href="https://linkedin.com/in/daniel-ayele7">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/DanielAyel94378">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/danielayele_7">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <br />
+
+  <p>
+    <i>Building scalable web and mobile solutions with passion. currently deep-diving into <b>Next.js & Server Components</b>.</i>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=dansev7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views Counter" />
+
+</div>
+
+<hr />
 
 ### 🚀 About Me
-- 🌱 I’m currently deep-diving into **Next.js & Server Components**
-- 👯 I’m looking to collaborate on **Open Source projects**
+
+- 🔭 I’m currently working on **Full Stack Web Applications**
+- 🌱 I’m currently learning **Advanced Microservices Patterns**
+- 👯 I’m looking to collaborate on **Open Source React & Node Projects**
 - 💬 Ask me about **REST API, Node.js, Express, and React Native**
-- 📫 Reach out to me for collaborations or just a tech chat!
+- ⚡ Fun fact: **I can center a div in 3 different ways!**
 
 ---
 
-### 🛠 Toolbox
+### 🛠️ Technical Arsenal
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) |
-| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) |
+<div align="center">
 
----
+| **Frontend** | **Backend** | **Database** |
+| :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
 
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&cache_seconds=1800&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord&hide_border=true" />
-</p>
+</div>
 
 ---
 
-### 📱 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/daniel-ayele7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/danielayele_7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/DanielAyel94378">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=dansev7&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/dansev7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/dansev7">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansev7&theme=tokyonight&hide_border=true" alt="Daniel's Streak" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-0e75b6?style=flat-square" />
   </a>
-</p>
-
-<p align="center">
-  <a href="#-hi-there-im-daniel-ayele-">Back to Top</a>
-</p>
+</div>
