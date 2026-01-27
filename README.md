@@ -60,13 +60,20 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&cache_seconds=1800&hide_border=true" />
+<a href="https://github.com/dansev7">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&include_all_commits=false&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord&hide_border=true" />
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord&hide_border=true" />
+<br /><br />
 
-</p>
+<a href="https://github.com/dansev7">
+  <img src="https://streak-stats.demolab.com?user=dansev7&theme=nord&hide_border=true" alt="Daniel's Streak" />
+</a>
+
+</div>
 
 <br />
 
