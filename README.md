@@ -60,26 +60,13 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=dansev7&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&cache_seconds=1800&hide_border=true" />
 
-<br/><br/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord&hide_border=true" />
 
-<a href="https://github.com/dansev7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/dansev7">
-  <img src="https://streak-stats.demolab.com?user=dansev7&theme=tokyonight&hide_border=true" alt="Daniel's Streak" />
-</a>
-
-</div>
+</p>
 
 <br />
 
