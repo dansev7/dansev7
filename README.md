@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
