@@ -38,7 +38,7 @@
 - 🔭 I’m currently working on **Full Stack Web Applications**
 - 🌱 I’m currently learning **Advanced Microservices Patterns**
 - 👯 I’m looking to collaborate on **Open Source React & Node Projects**
-- 💬 Ask me about **REST API, Node.js, Express, and React Native**
+- 💬 Ask me about **REST API, Node.js, Express, and React Native!**
 
 
 ---
