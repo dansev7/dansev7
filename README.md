@@ -58,16 +58,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dansev7&show_icons=true&theme=nord&count_private=true&include_all_commits=false&hide_border=true" />
-  
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansev7&layout=compact&theme=nord&hide_border=true" />
-
-</div>
-
 <br />
 
 <div align="center">
