@@ -12,14 +12,6 @@ with React, Node.js, ASP.NET Core, and React Native, and I'm currently focused o
 - 🎓 B.Sc. Computer Science, University of Gondar (2024)
 - 💼 Open to full-time roles and freelance projects
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Hospital EMR / HIMS** | Patient records, appointments, and clinical workflows for a local hospital *(private, demo available on request)* | React · Node.js · PostgreSQL |
-| **[Project Name](link)** | One sentence: what it does and who it's for | React Native · Express · MongoDB |
-| **[Project Name](link)** | One sentence: what it does and who it's for | Next.js · Tailwind |
-
 ## Tech Stack
 
 **Frontend:**
